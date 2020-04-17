@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "NoMeImporta": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NoMeImporta"
+    }
+  },
+  "defaultProject": "NoMeImporta",
+  "cli": {
+    "analytics": "834d7721-845e-4bae-8caf-0c9f0656a8cd"
+  }
 }
